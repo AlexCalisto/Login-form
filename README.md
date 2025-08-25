@@ -1,10 +1,9 @@
 Login Form Project
 
-A simple login form built with **HTML, CSS (inline via JavaScript), and JavaScript**.  
+A simple login form built with HTML and JavaScript.  
 This project includes:
 - Username and password input fields
 - Styled login button with hover effect
-- "Forgot Password" feature (redirect or alert)
 
 Features
 
